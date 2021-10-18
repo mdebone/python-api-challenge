@@ -1,4 +1,4 @@
-City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
+City,Latitude,Longitude,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
 tiznit,29.5833,-9.5,79.95,19,1,0.51,MA,1634462485
 sokolo,14.7328,-6.1219,90.27,28,93,2.98,ML,1634462486
 maldonado,-34.6667,-54.9167,47.23,76,0,4.72,UY,1634462486
