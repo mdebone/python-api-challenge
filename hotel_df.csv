@@ -1,0 +1,194 @@
+City,Latitude,Longitude,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date,Hotel Name
+tiznit,29.5833,-9.5,79.95,19,1,0.51,MA,1634462485,Hotel L'Arganier d'Ammelne
+maldonado,-34.6667,-54.9167,47.23,76,0,4.72,UY,1634462486,Casapueblo Hotel
+rikitea,-23.1203,-134.9692,75.06,75,7,14.2,PF,1634462386,Pension Bianca & Benoit
+lompoc,34.6391,-120.4579,62.53,47,1,6.91,US,1634462490,Hotel Corque
+hermanus,-34.4187,19.2345,61.9,69,67,11.23,ZA,1634462394,Houw Hoek Hotel
+rio grande,38.3,21.7833,66.6,79,59,3.36,GR,1634462394,Poseidon Palace
+horki,54.2861,30.9842,42.78,63,55,14.27,BY,1634462493,Hotel ATRIUM
+port alfred,-7.0349,29.7638,80.56,63,71,4.97,CD,1634462389,Embassy Suites by Hilton The Woodlands at Hughes Landing
+haines junction,59.2286,-135.4441,33.55,69,1,9.22,US,1634462498,Aspen Suites Hotel Haines
+letka,59.6011,49.4232,46.47,68,4,12.19,RU,1634462499,Florentsiya
+palmer,42.1584,-72.3287,54.39,79,1,9.22,US,1634462507,Avon Old Farms Hotel
+hobart,-42.8794,147.3294,55.26,67,40,0.0,AU,1634462445,Hotel Grand Chancellor Hobart
+salinas,36.6777,-121.6555,64.38,51,1,4.61,US,1634462509,The Monterey Hotel
+billings,45.7833,-108.5007,52.5,66,1,10.36,US,1634462358,Days Inn by Wyndham Billings
+muli,2.9167,73.5667,83.44,78,79,19.15,MV,1634462481,Medhufushi Island Resort
+nhulunbuy,-12.2333,136.7667,84.81,74,34,6.91,AU,1634462511,Walkabout Lodge & Tavern
+saint-philippe,-21.3585,55.7679,81.95,80,30,14.94,RE,1634462405,Palm Hotel & Spa
+kahului,20.8947,-156.47,75.85,77,1,12.66,US,1634462512,Hotel Moloka'i
+van,38.4924,43.3831,63.75,45,20,6.91,TR,1634462513,DoubleTree by Hilton Hotel Van
+boralday,43.3578,76.8594,62.46,31,0,8.95,KZ,1634462515,"The Ritz-Carlton, Almaty"
+port elizabeth,-7.0349,29.7638,80.56,63,71,4.97,CD,1634462516,Embassy Suites by Hilton The Woodlands at Hughes Landing
+lugovoy,42.9472,72.7644,63.52,28,1,8.81,KZ,1634462519,Kerben Palace Hotel
+hithadhoo,-0.6,73.0833,83.16,79,53,17.85,MV,1634462522,Equator Village
+port blair,-7.0349,29.7638,80.56,63,71,4.97,CD,1634462516,Embassy Suites by Hilton The Woodlands at Hughes Landing
+laguna,38.421,-121.4238,66.02,51,1,4.61,US,1634462523,Best Western Roseville Inn
+maroantsetra,-15.4333,49.7333,80.47,57,21,10.69,MG,1634462524,Hotel l'Hippocampe
+bunia,1.5667,30.25,75.69,69,54,1.43,CD,1634462525,Hotel Karibuni
+jumla,29.2747,82.1838,69.26,51,50,6.64,NP,1634462526,Rara Shangrila Resort
+clyde river,41.3042,-82.9752,52.12,77,27,11.74,US,1634462527,Comfort Inn Sandusky
+harper,4.375,-7.7169,80.64,80,39,3.69,LR,1634462529,hotêl doufoulougou
+butaritari,3.0707,172.7902,81.61,73,9,8.63,KI,1634462531,Hyatt Centric The Woodlands
+port lincoln,-7.0349,29.7638,80.56,63,71,4.97,CD,1634462389,Embassy Suites by Hilton The Woodlands at Hughes Landing
+carnarvon,-24.8667,113.6333,71.67,60,40,14.97,AU,1634462399,Wintersun Caravan and Tourist Park
+ilinskiy,55.619,38.1182,48.42,71,0,11.18,RU,1634462532,Hotel KOSMOS
+faanui,-16.4833,-151.75,80.44,73,1,17.67,PF,1634462384,Hotel Maitai Polynesia
+nikolskoye,59.7035,30.7861,44.87,59,73,12.55,RU,1634462535,Grand Hotel Tchaikovsky
+puerto ayora,36.5939,-6.233,69.62,74,0,4.61,ES,1634462388,Elba Costa Ballena Beach & Thalasso Resort
+khromtau,50.2503,58.4347,60.69,25,47,12.17,KZ,1634462538,BuClub
+altay,47.8667,88.1167,51.35,39,1,1.36,CN,1634462539,Xuedu Hotel
+bograd,54.2344,90.8328,42.55,62,14,4.88,RU,1634462539,Hotel Druzhba
+guerrero negro,17.6667,-100.0,64.67,68,76,2.19,MX,1634462540,HOTEL PARADISE INN
+port macquarie,-7.0349,29.7638,80.56,63,71,4.97,CD,1634462389,Embassy Suites by Hilton The Woodlands at Hughes Landing
+vrangel,42.7297,133.0839,39.13,34,0,8.08,RU,1634462544,Mercury Hotel Complex
+rio bueno,38.3,21.7833,66.6,79,59,3.36,GR,1634462394,Poseidon Palace
+mantua,45.1667,10.7833,64.27,66,0,1.01,IT,1634462546,Hotel Valpolicella International
+roald,62.5833,6.1333,43.09,75,75,6.91,NO,1634462546,Quality Hotel Ålesund
+maniitsoq,65.4167,-52.9,33.46,42,0,4.99,GL,1634462550,Hotel Heilmann Lyberth
+bambous virieux,-20.2567,57.4061,77.14,71,47,12.97,MU,1634462550,Veranda Pointe Aux Biches Hotel - Mauritius
+griffith,41.5284,-87.4237,46.89,71,40,4.61,US,1634462553,Hotel Audrey
+eskil,38.4017,33.4131,62.02,50,31,6.2,TR,1634462555,Grand Altuntaş Hotel
+mogadishu,2.0371,45.3438,82.15,67,10,11.86,SO,1634462396,Dolphin Hotel
+tala,30.6803,30.9429,84.51,29,57,6.93,EG,1634462556,Mansoura University Hotel
+geraldton,-28.7667,114.6,70.21,46,2,9.22,AU,1634462557,Ocean Centre Hotel
+chuy,-33.6971,-53.4616,44.67,78,0,2.55,UY,1634462558,Posada de la Viuda
+itarema,-2.9248,-39.9167,79.25,78,48,14.54,BR,1634462559,Pousada Villa Mango
+santiago,-33.4569,-70.6483,54.86,55,78,2.3,CL,1634462283,ICON Hotel Santiago
+soderhamn,61.3037,17.0592,44.04,52,0,15.37,SE,1634462560,Best Western Hotell Hudik
+puerto colombia,36.5939,-6.233,69.62,74,0,4.61,ES,1634462563,Elba Costa Ballena Beach & Thalasso Resort
+wilmington,34.2257,-77.9447,58.86,67,1,9.22,US,1634461964,Islander Inn
+rawson,-43.3002,-65.1023,51.21,49,3,17.47,AR,1634462567,Rayentray Trelew
+yeppoon,-23.1333,150.7333,76.78,75,1,12.28,AU,1634462568,The Criterion Hotel Motel
+antalaha,-14.9003,50.2788,79.97,55,4,9.64,MG,1634462570,Villa-Malaza
+monte patria,42.4687,9.3916,63.16,49,0,5.75,FR,1634462570,Hôtel Saint-Christophe
+manosque,43.8288,5.7869,65.77,60,0,1.74,FR,1634462574,Hôtel Crillon le Brave - Provence
+saldanha,-33.0117,17.9442,62.65,58,29,12.62,ZA,1634462400,St Helena Bay Hotel
+dehui,44.5333,125.7,44.91,37,9,8.39,CN,1634462578,Fuyu Songhua River Hotel
+polyarnyy,69.1989,33.4478,36.07,77,38,7.78,RU,1634462579,AZIMUT Hotel Murmansk
+andi,42.7836,46.2617,62.06,45,0,3.24,RU,1634462581,Hotel Tusheti
+cordele,31.9635,-83.7824,53.69,76,1,0.0,US,1634462481,Best Western Plus Windsor Hotel
+mayo,38.8876,-76.5119,55.96,78,1,4.0,US,1634462584,Hotel Hive
+marrakesh,31.6315,-8.0083,73.47,43,12,2.3,MA,1634462292,La Mamounia
+baruun-urt,46.6806,113.2792,41.72,34,15,9.22,MN,1634462587,"""Сод"" Буудал"
+sedona,34.8697,-111.76100000000001,60.55,40,1,9.22,US,1634462485,Little America Hotel
+xuanhua,40.6103,115.0447,48.02,24,0,3.04,CN,1634462590,Secret Garden Genting Grand
+broome,42.2506,-75.833,49.64,80,1,1.99,US,1634462591,Comfort Inn
+nouadhibou,20.930999999999997,-17.0347,80.58,36,5,12.66,MR,1634462591,Apparts Hotel Esma
+winneba,5.3511,-0.6231,84.67,77,61,9.69,GH,1634462592,Kempinski Hotel Gold Coast City Accra
+nalut,30.3333,10.85,73.06,22,26,5.01,LY,1634462594,فندق القصر
+kuroiso,36.9667,140.05,49.03,78,74,6.31,JP,1634462595,Nikko Kanaya Hotel
+rio gallegos,38.3,21.7833,66.6,79,59,3.36,GR,1634462597,Poseidon Palace
+changji,44.0167,87.3167,61.59,27,0,4.47,CN,1634462601,Hilton Urumqi
+oranjemund,-28.55,16.4333,63.64,49,34,19.35,,1634462604,Op My Stoep Lodge
+caraballeda,10.6112,-66.8522,80.67,74,20,3.44,VE,1634462607,Gran Meliá Caracas
+nishihara,26.1842,127.7558,74.48,57,75,23.02,JP,1634462608,ESTINATE HOTEL
+ballina,-28.8667,153.5667,63.79,60,47,9.57,AU,1634462609,Ramada Hotel & Suites by Wyndham Ballina Byron
+gladstone,-23.85,151.25,75.13,64,35,10.36,AU,1634462610,Rydges Gladstone
+juazeiro,-9.4117,-40.4986,78.98,69,75,10.36,BR,1634462612,Grande Hotel de Juazeiro
+nouakchott,18.0858,-15.9785,84.13,30,76,9.19,MR,1634462612,AZALAÏ HOTEL (MARHABA )
+zaranj,30.9667,61.8833,78.76,8,0,15.23,AF,1634462613,غزنوی هوتل
+kovin,44.7475,20.9761,57.94,59,11,3.53,RS,1634462615,Belgrade City Hotel
+tiarei,-17.5333,-149.3333,75.22,79,38,20.47,PF,1634462616,Hotel Manava Beach Resort & Spa Moorea
+constitucion,-35.3333,-72.4167,48.06,79,0,6.33,CL,1634462616,Hotel Iloca
+escanaba,45.7453,-87.0646,50.31,80,1,8.05,US,1634462619,Terrace Bay Hotel
+halden,59.1226,11.3871,45.5,57,10,3.27,NO,1634462619,Thon Hotel Halden
+urumqi,43.801,87.6005,58.15,27,0,4.47,CN,1634462620,Hilton Urumqi
+tekeli,44.83,78.8239,47.8,67,25,2.42,KZ,1634462620,Koktem Grand
+namatanai,-3.6667,152.4333,81.7,76,31,8.43,PG,1634462621,Namatanai Hotel
+karratha,-20.7377,116.8463,80.2,44,67,20.96,AU,1634462622,Karratha International Hotel
+formoso do araguaia,-14.9467,-46.2319,70.54,77,38,3.98,BR,1634462623,Hotel Luares
+abilene,32.4487,-99.7331,52.29,64,1,5.75,US,1634461903,La Quinta Inn by Wyndham Abilene
+makakilo city,21.3524,-158.0865,73.71,67,1,5.75,US,1634462630,Aston Waikiki Circle Hotel
+bayir,37.2687,28.2167,66.72,56,39,5.55,TR,1634462631,Baga Hotel
+rosarito,32.3333,-117.0333,67.14,60,36,3.2,MX,1634462632,La Quinta Inn & Suites by Wyndham San Diego SeaWorld/Zoo
+kazar,48.0495,19.8614,51.75,60,17,4.07,HU,1634462633,LIFESTYLE HOTEL Superior MÁTRA
+guiren,33.6697,118.1889,55.2,57,4,2.8,CN,1634462633,Hengli International Hotel
+langarud,37.196999999999996,50.1535,73.38,75,78,4.09,IR,1634462634,Hotel RAK
+bonthe,7.5264,-12.505,81.59,75,75,0.36,SL,1634462635,Higher Level Guest House
+linxia,35.6003,103.2064,58.96,47,53,3.44,CN,1634462635,Crowne Plaza Lanzhou
+ajdabiya,30.7554,20.2263,73.0,50,0,4.18,LY,1634462636,Almadina Hotel
+dandong,40.1292,124.3947,41.23,53,0,6.67,CN,1634462476,Hilton Garden Inn Dandong
+manbij,36.5281,37.9549,75.97,36,2,22.39,SY,1634462637,Hotel taan Alhaj
+potosi,-19.5836,-65.7531,42.22,27,80,4.12,BO,1634462637,Libertador
+dunedin,-45.8742,170.5036,57.79,65,59,1.01,NZ,1634462638,Scenic Hotel Southern Cross
+alice springs,27.7523,-98.0697,61.41,79,1,6.91,US,1634462639,La Quinta Inn & Suites by Wyndham Mathis
+half moon bay,6.3807,-10.6953,82.29,78,78,0.92,LR,1634462640,The Royal Grand Hotel
+dzaoudzi,-12.7887,45.2699,84.09,65,0,11.5,YT,1634462641,2.0 Hotel
+delicias,41.6493,-0.9076,62.6,75,75,3.44,ES,1634462642,Hotel Diagonal Plaza
+cagayan de tawi-tawi,6.9747,118.5144,84.56,72,69,7.47,PH,1634462608,Embassy Suites by Hilton The Woodlands at Hughes Landing
+kungurtug,50.5994,97.5228,41.2,37,51,0.36,RU,1634462643,Hyatt Centric The Woodlands
+abatskoye,56.2875,70.4555,51.53,48,29,11.18,RU,1634462644,"Gostinitsa ""Berezka"""
+shingu,33.7333,135.9833,63.59,68,45,8.03,JP,1634462645,Hotel Harvest Nanki Tanabe
+aksarayskiy,46.7924,48.0119,69.75,20,55,16.02,RU,1634462646,Grand Hotel Astrakhan
+kentau,43.5206,68.5094,68.79,12,0,11.92,KZ,1634462447,Royal Grand Hotel
+ust-kan,50.9276,84.76100000000001,46.06,64,20,2.44,RU,1634462647,Turbaza Lesnaya Dacha
+chifeng,42.2683,118.9636,48.83,23,1,7.92,CN,1634462648,Yulong State Guest Hotel
+khani,41.9563,42.9566,62.17,56,0,5.08,GE,1634462648,Hotel Borjomi Likani Health & Spa Centre
+maun,-19.9833,23.4167,80.56,12,0,12.66,BW,1634462649,Cresta Maun Hotel
+romny,50.751000000000005,33.4747,50.97,67,26,5.95,UA,1634462650,Hotelʹ Druzhba
+gat,31.61,34.7642,80.78,20,73,11.81,IL,1634462397,King David Hotel
+flinders,-34.5833,150.8552,64.2,73,76,5.7,AU,1634462654,Berida Hotel
+danshui,22.7984,114.4672,78.03,71,72,12.57,CN,1634462655,Hong Kong Disneyland Hotel
+illapel,-31.6308,-71.1653,52.18,68,50,2.08,CL,1634462658,INTI HOTEL
+beyneu,45.3167,55.2,67.28,23,51,16.31,KZ,1634462659,"HOTEL ""AKNUR"""
+termiz,37.2242,67.2783,69.89,16,0,2.3,UZ,1634462660,Hotel Asson
+artesia,33.8658,-118.0831,69.33,49,1,0.0,US,1634462660,Ayres Hotel Costa Mesa/Newport Beach
+kenora,49.8167,-94.4337,45.57,65,20,8.05,CA,1634462662,Timberland
+troitskoye,52.9821,84.6757,51.53,46,65,3.09,RU,1634462663,Апарт-отель «Облака»
+grand river south east,38.8755,-109.5012,38.39,38,0,2.75,US,1634462387,Best Western Plus Canyonlands Inn
+mananjary,-21.2167,48.3333,80.71,61,48,13.98,MG,1634462665,Jardin de la Mer
+nemuro,43.3236,145.575,36.03,61,53,24.52,JP,1634462665,East Harbor Hotel
+cockburn town,-32.0833,141.0,70.99,24,5,7.23,AU,1634462667,Royal Exchange Hotel
+benguela,-12.5763,13.4055,78.53,64,6,9.55,AO,1634462668,Ramire Tour Guest Hotel
+pundaguitan,6.3711,126.1689,84.51,75,29,9.53,PH,1634462668,El Don Resort
+ust-koksa,50.2696,85.6108,46.98,50,11,2.1,RU,1634462669,"Gostevyye Doma ""Portal Belukha"""
+jalu,29.0331,21.5482,75.43,39,0,5.44,LY,1634462669,Awjilah Tourist Hotel
+gamba,-2.65,10.0,80.78,74,79,7.4,GA,1634462670,Laguna guest house
+narsaq,60.9167,-46.05,39.42,47,6,8.23,GL,1634462671,Hotel Narsarsuaq
+silifke,36.3778,33.9344,76.53,49,0,15.21,TR,1634462672,Kilikya Hotel
+thinadhoo,0.5333,72.9333,83.34,78,25,15.82,MV,1634462673,Ayada Maldives
+kurumkan,54.3,110.3,33.33,68,15,4.81,RU,1634462674,Ilikchin
+kuito,-12.3833,16.9333,80.74,21,0,10.36,AO,1634462675,iu Hotel Kuíto
+constantine,36.365,6.6147,62.01,55,0,3.44,DZ,1634462676,Constantine Marriott Hotel
+otradnoye,59.7775,30.8181,45.03,59,62,12.75,RU,1634462677,Grand Hotel Tchaikovsky
+nanortalik,60.1432,-45.2371,37.74,60,8,2.53,GL,1634462677,Hotel Kap Farvel
+dawson creek,31.7735,-84.4466,53.02,57,0,10.42,US,1634462480,Best Western Plus Windsor Hotel
+bogandinskiy,56.8937,65.8938,50.27,48,45,11.3,RU,1634462679,DoubleTree by Hilton Hotel Tyumen
+paka,4.6374,103.4368,84.13,74,40,5.75,MY,1634462680,Tanjong Jara Resort
+suez,29.9737,32.5263,82.98,40,64,8.97,EG,1634462681,Mövenpick Resort El Sokhna
+iwakuni,34.15,132.1833,65.71,51,20,12.66,JP,1634462683,Grand Prince Hotel Hiroshima
+shaygino,57.7675,46.8618,48.45,64,23,13.51,RU,1634462686,Inn Imperiya
+kavieng,-2.5744,150.7967,84.49,69,7,13.02,PG,1634462595,Nusa Island Retreat
+shubarkuduk,49.1447,56.4872,63.9,25,23,12.66,KZ,1634462689,Гостиница CNPC-AMG
+macau,22.2006,113.5461,78.08,69,40,20.71,MO,1634462691,Galaxy Hotel
+clarence town,42.9767,-78.592,52.45,74,75,3.0,US,1634462693,Hilton Niagara Falls/Fallsview Hotel & Suites
+tagab,34.855,69.6492,76.44,24,15,11.41,AF,1634462693,Kabul Serena Hotel
+korla,41.7597,86.1469,62.24,17,58,11.23,CN,1634462696,The Garden Hotel Korla
+ambulu,-8.345,113.6058,83.26,71,77,6.17,ID,1634462697,Luminor Hotel Jember
+tshane,-24.0196,21.8684,70.05,10,0,15.61,BW,1634462699,Entabeni Hotel
+zhigalovo,54.8097,105.1578,36.82,58,42,5.93,RU,1634462700,"Gostinitsa ""Imperiya"""
+severobaykalsk,55.65,109.3167,34.29,57,33,7.74,RU,1634462700,"Lodzh-Otel' ""Baykal'skaya Rezidentsiya"""
+bella union,40.7609,15.5406,60.62,66,70,3.4,IT,1634462701,Hotel Cerere
+hami,42.8,93.45,62.11,15,68,5.57,CN,1634462704,Hami Hotel
+santa lucia,17.486,120.4348,82.96,80,59,5.08,PH,1634462705,Hotel Luna
+saint-medard-en-jalles,44.8969,-0.7214,56.3,79,0,8.05,FR,1634462708,MEININGER Hotel Bordeaux Gare Saint-Jean
+balkhash,46.843999999999994,74.9804,57.81,30,0,6.71,KZ,1634462714,Guest House Comfort-House-Balkhash
+kiama,-34.6833,150.8667,61.57,75,72,5.99,AU,1634462715,Berida Hotel
+potamia,40.7163,24.7286,63.64,70,43,6.08,GR,1634462716,Blue Dream Palace
+hirara,24.8,125.2833,75.47,69,75,20.71,JP,1634462717,HOTEL LOCUS
+biak,-0.9131,122.8766,82.17,79,27,4.43,ID,1634462718,Swiss-Belinn Hotel Luwuk
+puerto cabezas,36.5939,-6.233,69.62,74,0,4.61,ES,1634462563,Elba Costa Ballena Beach & Thalasso Resort
+ubinskoye,55.3068,79.6802,48.16,59,2,4.52,RU,1634462720,Gostinitsa Siberia
+dongsheng,39.8161,109.9776,49.3,36,6,13.65,CN,1634462720,Crowne Plaza Ordos
+mugango,-1.6833,33.7,80.78,42,50,8.95,TZ,1634462722,Lukuba Island Lodge
+paz de ariporo,20.9666,-103.8991,69.37,77,22,4.25,MX,1634462723,Hotel Puerta del Sol
+klyuchi,52.2667,79.1667,50.56,37,42,7.05,RU,1634462724,"Hotel ""Altai"""
+farmington,36.7281,-108.2187,44.2,55,1,6.91,US,1634462153,Courtyard by Marriott Farmington
+chabahar,25.2919,60.643,83.97,35,0,8.79,IR,1634462725,Lipar Hotel
+kamienna gora,51.076,17.76,52.52,56,51,6.4,PL,1634462727,Art Hotel
+tongliao,43.6125,122.2653,44.71,32,4,6.33,CN,1634462728,Country Garden Phoenix Hotel
+bac lieu,45.3919,19.2367,55.31,53,8,2.82,RS,1634462729,Hotel Centar
+mananara,-16.1667,49.7667,78.26,66,44,8.77,MG,1634462730,Masoala Forest Lodge
+chaykovskiy,56.7686,54.1148,52.81,49,77,12.17,RU,1634462731,Green Roof Hotel
+ulladulla,-35.35,150.4667,58.1,72,68,6.91,AU,1634462726,Huskisson Hotel
